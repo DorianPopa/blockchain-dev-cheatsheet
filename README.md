@@ -44,7 +44,7 @@ Both options are pretty well documented and offer pretty similar functionality o
 - [Buildspace](https://buildspace.so/) - tutorials, online workshops, discord community, **requires an account**
 - [Guide to Full Stack Ethereum Development by Nader Dabit](https://dev.to/dabit3/the-complete-guide-to-full-stack-ethereum-development-3j13) - Great all rounded tutorial for creating a simple end-to-end dApp with [Hardhat](https://hardhat.org/), [React](https://reactjs.org/) and [ethers.js](https://docs.ethers.io/v5/). Also has a [video version](https://www.youtube.com/watch?v=a0osIaAOFSE&ab_channel=NaderDabit) of it if you're not into reading.
 - [CryptoZombies](https://cryptozombies.io/) - Interactive online course on building DApps
-- 
+
 >I will add more stuff here over time
 
 >**Important:** If you're an absolute beginer, check out [Nader Dabit's tutorial](https://dev.to/dabit3/the-complete-guide-to-full-stack-ethereum-development-3j13). It will give you a hands-on experience and overview of how things are set-up and work.
